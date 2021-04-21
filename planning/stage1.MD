@@ -4,6 +4,7 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 
 1. Install a gas pipe
 1. Install a gas boiler
+1. Install radiators
 1. Install the cupboards
 1. Install the drawers
 1. Paint the ceiling
